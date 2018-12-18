@@ -1,6 +1,8 @@
-# atomic-design
+# Search Star Wars Characters
 
-> A Vue.js project
+> A Vue.js project to pratice concepts from atomic design. 
+
+> Need some fixes at responsivity and componetization of some components
 
 ## Build Setup
 
